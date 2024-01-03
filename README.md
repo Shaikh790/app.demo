@@ -1,3 +1,3 @@
 # app.demo
 this is my first repositiry
-author-sk
+author-sk shahbaz
